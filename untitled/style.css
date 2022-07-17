@@ -1,0 +1,50 @@
+.card{
+    background-color: white;
+    box-shadow: gray;
+    max-width: 300px;
+    margin: auto;
+
+}
+h1{
+    font-size: 16px;
+    color: darkgray;
+    margin: 5px 5% 5%;
+}
+h2{
+    font-size: 24px;
+    color: black;
+    margin: 5%;
+
+
+}
+#castle{
+    width: 90%;
+    margin: 10px 5% 5%;
+}
+#profile{
+    width: 30px;
+    margin: 5%;
+}
+#name{
+    font-size: 8px;
+    color: black;
+    margin: 5px 5% 5%;
+}
+#date{
+    font-size: 8px;
+    color: gray;
+    margin: 5%;
+    grid-column: 2/2;
+
+}
+#ce{
+    font-size: 16px;
+    padding: 5%;
+
+}
+#prf{
+    display: grid;
+    grid-template-rows: 10% 90%;
+    grid-template-columns: 10% 90%;
+    margin: 5%;
+}
